@@ -1,17 +1,18 @@
 # Insertion-Sort-Projesi
-# Insertion-Sort-Proje
+
 
 [Patika.dev]
 (https://www.patika.dev/tr)
 
-1- [22,27,16,2,18,6] dizisinin aşamaları:
+ 1- [22,27,16,2,18,6] dizisinin aşamaları:
 
  1.[22,27,16,2,18,6]
  2.[2,27,16,22,18,6]
  3.[2,6,16,22,18,27]
  4.[2,6,16,18,22,27]
 
-2- Big-O gösterimi: n(n+1)/2 O(n^2)
+ 2- Big-O gösterimi: 
+   n(n+1)/2 O(n^2)
 3- Time Complexity:
 Average case: Aradığımız sayının ortada olması,
 Worst case: Aradığımız sayının sonda olması, 
